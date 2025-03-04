@@ -1,17 +1,16 @@
-# 🚀 Vanilla JS Mastery Workshop
+# 🧪 Vanilla JS Laboratory 
 
-**리액트 학습 전 필수 자바스크립트 핵심 개념 완벽 이해 프로젝트**
+**바닐라 자바스크립트 연습 프로젝트**  
+[![JS Version](https://img.shields.io/badge/ECMAScript-2024-F7DF1E?logo=javascript)](https://262.ecma-international.org/)
+[![Repo Size](https://img.shields.io/github/repo-size/johnwithsmile/project_javascript?color=34D399)](https://github.com/johnwithsmile/project_javascript)
+[![Udemy 강좌](https://img.shields.io/badge/Udemy-JS_완벽_가이드-FF6600?logo=udemy&logoColor=white&style=for-the-badge)](https://www.udemy.com/course-dashboard-redirect/?course_id=4482286)
+[![License](https://img.shields.io/badge/License-MIT-74AA9C)](LICENSE)
 
-## 🌟 개요
-**"리액트의 동작 원리를 이해하려면 먼저 바닐라 자바스크립트를 마스터해야 합니다."**  
-본 프로젝트는 현대 웹 개발의 기반이 되는 순수 자바스크립트 개념을 체계적으로 학습하기 위한 실습 중심 저장소입니다.
 
-## 🎯 학습 목표
-1. ✅ DOM 조작 원리 이해
-2. ✅ 이벤트 루프와 비동기 처리 완벽 숙지
-3. ✅ ES6+ 핵심 문법 활용 능력 배양
-4. ✅ 모듈 시스템과 의존성 관리 경험
-5. ✅ Web API 직접 활용 프로젝트 구현
-
-## 💡 코어 컨셉
-### 클로저와 렉시컬 환경
+## 🧭 핵심 원칙
+const labRules = {
+1: 'No Frameworks (React/Vue 금지)',
+2: 'Pure DOM Manipulation Only',
+3: 'Modern ES6+ Syntax 필수',
+4: 'Web Component 최대 활용'
+};
